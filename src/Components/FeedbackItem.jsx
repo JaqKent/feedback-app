@@ -1,3 +1,4 @@
+import React from "react";
 import { FaTimes, FaEdit } from "react-icons/fa";
 import { useContext } from "react";
 import Card from "./Shared/card";
